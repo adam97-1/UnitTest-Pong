@@ -7,8 +7,8 @@ CONFIG += thread
 CONFIG -= qt
 
 unix{
-DESTDIR = ./Binary/unix
-OBJECTS_DIR = ./Binary/Obj
+    DESTDIR = ./Binary/unix
+    OBJECTS_DIR = ./Binary/Obj
 }
 
 SOURCES += \
