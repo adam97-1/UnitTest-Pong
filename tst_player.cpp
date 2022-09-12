@@ -2,7 +2,7 @@
 #include <gtest/gtest.h>
 #include <gmock/gmock-matchers.h>
 
-#include "../Pong/inc/player.h"
+#include "player.h"
 
 
 using namespace testing;

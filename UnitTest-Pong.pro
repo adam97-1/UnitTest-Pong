@@ -31,8 +31,10 @@ unix{
 
 
 SOURCES += \
-        ../Pong/src/player.cpp  \
-        ../Pong/src/rectangleobject.cpp  \
-        main.cpp         \
-        tst_player.cpp
+        ../Pong/src/player.cpp          \
+        ../Pong/src/rectangleobject.cpp \
+        ../Pong/src/gamebounds.cpp      \
+        main.cpp                        \
+        tst_player.cpp                  \
+        tst_rectangleobject.cpp
 
